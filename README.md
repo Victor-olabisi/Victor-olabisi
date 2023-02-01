@@ -1,5 +1,5 @@
 Welcome to my profile 
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1>Hi 👋, I'm Victor</h1>
 
 <h1>ABOUT ME<h1/>
    <h3> Frontend Developer<h3/>
