@@ -3,13 +3,10 @@ Welcome to my profile
 <h3 align="center">A result driven frontend developer </h3>
 <h1>ABOUT ME<h1/>
    <h3> Frontend Developer<h3/>
--  <h3>Node.js Junior Developer <h3/>
+   <h3>Node.js Junior Developer <h3/>
    <h3>proficient in writing good and high scalable code and also amking sure the website permofance is top notch <h3/>
--  <h3>ability to work with a group of people<h3/>
+  <h3>ability to work with a group of people<h3/>
 
-- 
-
-- 💬 Ask me about **React javascript node.js**
 
 - 📫 How to reach me **Oguntayovictor65@gmail.com**
 
