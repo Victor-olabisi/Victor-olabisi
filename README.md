@@ -2,8 +2,13 @@ Welcome to my profile
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A result driven frontend developer </h3>
 - 🔭 I’m currently working on **Javascript projects**
-
-- 🌱 I’m currently learning **Node.js Tailwind react.js**
+ About Me 
+- 🌱 Frontend Developer
+- Node.js Junior Developer
+- proficient in writing good and high scalable code and also puting the website performance into consideration
+- ability to work with group of team 
+- b-tech in engineering
+- 
 
 - 💬 Ask me about **React javascript node.js**
 
