@@ -1,11 +1,10 @@
 Welcome to my profile 
 <h1>Hi 👋, I'm Victor</h1>
 
-<h1>ABOUT ME<h1/>
-   <h3> Frontend Developer<h3/>
-   <h3>Node.js Junior Developer <h3/>
-   <h3>proficient in writing good and high scalable code and also making sure the website performance is top notch <h3/>
-  <h3>ability to work with a group of people<h3/>
+<h2>ABOUT ME<h2/>
+<h3> Frontend Developer </h3>
+<p>Hello, I am Victor, a seasoned website designer and developer with 3 years of experience. I am skilled in using various technologies such as WordPress, Shopify, Elementor, woocommerce,Webflow, and proficient in email marketing, HTML5, CSS3, and Javascript for frontend development. My aim is to craft visually appealing and user-friendly websites, optimized for desktop, tablet, and mobile viewing. Let's work together to create a website that will set your business apart from the competition. Designing and revamping websites is a key aspect of my profession.</p>
+
 
 
 - 📫 How to reach me **Oguntayovictor65@gmail.com**
