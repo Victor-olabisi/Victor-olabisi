@@ -1,7 +1,7 @@
 Welcome to my profile 
 <h3>ABOUT ME<h3/>
 <h4> Frontend Developer</h4>
-<p>Hello, I am Victor, a seasoned website designer and developer with 3 years of experience. I am skilled in using various technologies such as WordPress, Shopify, Elementor, woocommerce,Webflow, and proficient in email marketing, HTML5, CSS3, and Javascript for frontend development. My aim is to craft visually appealing and user-friendly websites, optimized for desktop, tablet, and mobile viewing. Let's work together to create a website that will set your business apart from the competition. Designing and revamping websites is a key aspect of my profession.</p>
+<p>Hello there! I'm victor, a dedicated frontend developer with a strong focus on React.js and its cutting-edge tools. With 3 years of experience in crafting seamless and user-friendly web interfaces, I bring a blend of creativity and technical expertise to every project I undertake. I specialize in building responsive and intuitive user interfaces using React.js, harnessing the power of virtual DOM and component-based architecture. My proficiency extends to modern frontend technologies such as Redux, GraphQL, and Next.js, enabling me to create dynamic and high-performance web applications.</p>
 
 - 📫 How to reach me **Oguntayovictor65@gmail.com**
 
